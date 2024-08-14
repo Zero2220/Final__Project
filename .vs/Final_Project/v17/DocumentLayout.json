@@ -7,32 +7,8 @@
       "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\feneriumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\clothcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\clothcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\bases\\clothentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\bases\\clothentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\kazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\kazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\mayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\mayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\shorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\shorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\sweetshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,40 +19,464 @@
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\socks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\shorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\shorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\colors\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\colors\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\mayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\mayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\clothes\\kazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\clothes\\kazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\bases\\clothesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\bases\\clothesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\genders\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\genders\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\colors\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\colors\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\sizes\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\sizes\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\isizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\igender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\services\\implementations\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\services\\implementations\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\controllers\\admincontroller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\controllers\\admincontroller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\controllers\\admincontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\controllers\\admincontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\categories\\categoryeditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\categories\\categoryeditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\services\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\services\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\categories\\categorylistitemdetailedgetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\categories\\categorylistitemdetailedgetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\otherdtos\\categorydtos\\categorygetadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\otherdtos\\categorydtos\\categorygetadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\otherdtos\\categorydtos\\categoryeditadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\otherdtos\\categorydtos\\categoryeditadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\otherdtos\\categorydtos\\categorycreateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\otherdtos\\categorydtos\\categorycreateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\otherdtos\\authdtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\otherdtos\\authdtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\otherdtos\\authdtos\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\otherdtos\\authdtos\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\categories\\categorycreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\categories\\categorycreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\final_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\controllers\\admincontroller\\kazakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\controllers\\admincontroller\\kazakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\final_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\final_project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\implementations\\kazakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\implementations\\kazakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\exceptions\\restexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\exceptions\\restexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|c:\\users\\asus\\desktop\\final_project\\ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCDB33C-9737-42B1-A217-1CCDDCD8F031}|UI\\UI.csproj|solutionrelative:ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakgetadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakgetadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakeditadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakeditadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakcreateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\dtos\\admindtos\\clothesdtos\\kazakdtos\\kazakcreateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\migrations\\20240805093106_nulll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240805093106_nulll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\migrations\\20240804105057_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240804105057_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\migrations\\20240805092418_nullablelikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240805092418_nullablelikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categorykazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categorykazak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\interfaces\\ikazakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\interfaces\\ikazakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\itshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\itshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\isweetshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isweetshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\isocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\ishortsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\ishortsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\ishirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\ishirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\imayorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\imayorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\ikazakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\ikazakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\igenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\igenderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\tshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\tshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\socksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\socksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\sweetshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\sweetshirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\shortsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\shortsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\kazakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\kazakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\mayorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\mayorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\genderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\genderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\sliders\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\sliders\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categorymayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categorymayo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categoryshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categoryshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categoryshorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categoryshorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categorysocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categorysocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categorysweetshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categorysweetshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\manytomanys\\categorytshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\manytomanys\\categorytshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\bases\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\bases\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|c:\\users\\asus\\desktop\\final_project\\core\\entities\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A833256-4A96-4A04-B870-5DCA43D2769C}|Core\\Core.csproj|solutionrelative:core\\entities\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|c:\\users\\asus\\desktop\\final_project\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{088D963A-779D-4D9B-8C49-3B63FE48C247}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|c:\\users\\asus\\desktop\\final_project\\final_project\\final_project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{55CD173E-ACE1-42F8-B54A-3309EDF8B7D9}|Final_Project\\Final_Project.csproj|solutionrelative:final_project\\final_project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\migrations\\20240723104851_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240723104851_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|c:\\users\\asus\\desktop\\final_project\\data\\migrations\\20240724102100_categorynamesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3037E1C-6C72-4A63-901A-BB4BC14B3EC8}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240724102100_categorynamesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,106 +494,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Watch.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Watch.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Watch.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Watch.cs",
-              "RelativeToolTip": "Core\\Entities\\Clothes\\Watch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "DocumentIndex": 8,
+              "Title": "ClothesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\ClothesEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Bases\\ClothesEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\ClothesEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Bases\\ClothesEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:59:42.915Z",
+              "WhenOpened": "2024-08-14T20:41:29.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClothCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\ClothCategory.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\ClothCategory.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\ClothCategory.cs",
-              "RelativeToolTip": "Core\\Entities\\ManyToManys\\ClothCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:45:03.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClothEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\ClothEntity.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Bases\\ClothEntity.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\ClothEntity.cs",
-              "RelativeToolTip": "Core\\Entities\\Bases\\ClothEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:09:06.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Kazak.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Kazak.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Kazak.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Kazak.cs",
               "RelativeToolTip": "Core\\Entities\\Clothes\\Kazak.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:25:34.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Mayo.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Mayo.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Mayo.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Mayo.cs",
               "RelativeToolTip": "Core\\Entities\\Clothes\\Mayo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T11:14:41.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Shirt.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Shirt.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Shirt.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Shirt.cs",
               "RelativeToolTip": "Core\\Entities\\Clothes\\Shirt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T11:15:59.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Shorts.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Shorts.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Shorts.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Shorts.cs",
               "RelativeToolTip": "Core\\Entities\\Clothes\\Shorts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:25:53.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Socks.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Socks.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Socks.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Socks.cs",
+              "RelativeToolTip": "Core\\Entities\\Clothes\\Socks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:15:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Sweetshirt.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Sweetshirt.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Sweetshirt.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Sweetshirt.cs",
               "RelativeToolTip": "Core\\Entities\\Clothes\\Sweetshirt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:24:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TShirt.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\TShirt.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\TShirt.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\TShirt.cs",
+              "RelativeToolTip": "Core\\Entities\\Clothes\\TShirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:22:52.499Z",
               "EditorCaption": ""
             },
             {
@@ -204,7 +604,7 @@
               "RelativeDocumentMoniker": "Data\\FeneriumDbContext.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\FeneriumDbContext.cs",
               "RelativeToolTip": "Data\\FeneriumDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvxAAAAAFAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwB0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T11:40:48.933Z",
               "EditorCaption": ""
@@ -212,123 +612,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Socks.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Socks.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\Socks.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\Socks.cs",
-              "RelativeToolTip": "Core\\Entities\\Clothes\\Socks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:15:28.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Categories\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Categories\\Category.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Categories\\Category.cs",
-              "RelativeToolTip": "Core\\Entities\\Categories\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:46:06.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TShirt.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\TShirt.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Clothes\\TShirt.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Clothes\\TShirt.cs",
-              "RelativeToolTip": "Core\\Entities\\Clothes\\TShirt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:22:52.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Colors\\Color.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Colors\\Color.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Colors\\Color.cs",
-              "RelativeToolTip": "Core\\Entities\\Colors\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:58:45.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Genders\\Gender.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Genders\\Gender.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Genders\\Gender.cs",
-              "RelativeToolTip": "Core\\Entities\\Genders\\Gender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:58:37.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Size.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sizes\\Size.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Sizes\\Size.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sizes\\Size.cs",
-              "RelativeToolTip": "Core\\Entities\\Sizes\\Size.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:58:31.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:51:24.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sliders\\Slider.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Sliders\\Slider.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sliders\\Slider.cs",
-              "RelativeToolTip": "Core\\Entities\\Sliders\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:01:15.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuditEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\AuditEntity.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Bases\\AuditEntity.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\AuditEntity.cs",
-              "RelativeToolTip": "Core\\Entities\\Bases\\AuditEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:56:04.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Bases\\BaseEntity.cs",
@@ -338,6 +621,1372 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T08:53:21.239Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Genders\\Gender.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Genders\\Gender.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Genders\\Gender.cs",
+              "RelativeToolTip": "Core\\Entities\\Genders\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:37.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Colors\\Color.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Colors\\Color.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Colors\\Color.cs",
+              "RelativeToolTip": "Core\\Entities\\Colors\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISizes.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\ISizes.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISizes.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\ISizes.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISizes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:57:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGender.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IGender.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IGender.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IGender.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IGender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:56:54.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IColor.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IColor.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IColor.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IColor.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:56:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:54:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Filters\\AuthFilter.cs",
+              "RelativeDocumentMoniker": "UI\\Filters\\AuthFilter.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Filters\\AuthFilter.cs",
+              "RelativeToolTip": "UI\\Filters\\AuthFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:56:14.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Services\\Implementations\\CrudService.cs",
+              "RelativeDocumentMoniker": "UI\\Services\\Implementations\\CrudService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Services\\Implementations\\CrudService.cs",
+              "RelativeToolTip": "UI\\Services\\Implementations\\CrudService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:17:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sizes\\Size.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Sizes\\Size.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sizes\\Size.cs",
+              "RelativeToolTip": "Core\\Entities\\Sizes\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Final_Project\\Controllers\\AdminController\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\CategoryController.cs",
+              "RelativeToolTip": "Final_Project\\Controllers\\AdminController\\CategoryController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:13:28.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:22:51.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\AuthController.cs",
+              "RelativeDocumentMoniker": "Final_Project\\Controllers\\AdminController\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\AuthController.cs",
+              "RelativeToolTip": "Final_Project\\Controllers\\AdminController\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:53:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "UI\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:36:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T16:53:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAApwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:51:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "UI\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "UI\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:36:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryEditRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryEditRequest.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\Categories\\CategoryEditRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryEditRequest.cs",
+              "RelativeToolTip": "UI\\Models\\Categories\\CategoryEditRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:04:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Services\\Interfaces\\ICrudService.cs",
+              "RelativeDocumentMoniker": "UI\\Services\\Interfaces\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Services\\Interfaces\\ICrudService.cs",
+              "RelativeToolTip": "UI\\Services\\Interfaces\\ICrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:07:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:31:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T16:54:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:37:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T14:49:06.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T14:43:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryListItemDetailedGetResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryListItemDetailedGetResponse.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\Categories\\CategoryListItemDetailedGetResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryListItemDetailedGetResponse.cs",
+              "RelativeToolTip": "UI\\Models\\Categories\\CategoryListItemDetailedGetResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:59:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:54:06.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:12:14.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:45:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryGetAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryGetAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryGetAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryGetAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryGetAdminDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T21:16:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryEditAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryEditAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryEditAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryEditAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryEditAdminDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:13:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryCreateAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryCreateAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryCreateAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryCreateAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\OtherDtos\\CategoryDtos\\CategoryCreateAdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:12:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminLoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminLoginDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminLoginDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:45:56.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "UI\\Models\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:41:09.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:14:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminRegisterDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminRegisterDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\OtherDtos\\AuthDtos\\AdminRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:47:21.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CategoryCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryCreateRequest.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\Categories\\CategoryCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\Categories\\CategoryCreateRequest.cs",
+              "RelativeToolTip": "UI\\Models\\Categories\\CategoryCreateRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:14:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Categories\\Category.cs",
+              "RelativeToolTip": "Core\\Entities\\Categories\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:46:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:09:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:10:48.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:14:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Final_Project.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.csproj",
+              "RelativeDocumentMoniker": "Final_Project\\Final_Project.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.csproj",
+              "RelativeToolTip": "Final_Project\\Final_Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T20:06:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:34:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "UI\\Models\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:11:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "UI\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:10:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Final_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Program.cs",
+              "RelativeToolTip": "Final_Project\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:02:51.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:10:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T17:13:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:51:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Final_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\appsettings.json",
+              "RelativeToolTip": "Final_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T20:54:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Final_Project.http",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.http",
+              "RelativeDocumentMoniker": "Final_Project\\Final_Project.http",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.http",
+              "RelativeToolTip": "Final_Project\\Final_Project.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-22T20:06:01.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "KazakController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\KazakController.cs",
+              "RelativeDocumentMoniker": "Final_Project\\Controllers\\AdminController\\KazakController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Controllers\\AdminController\\KazakController.cs",
+              "RelativeToolTip": "Final_Project\\Controllers\\AdminController\\KazakController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:57:26.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Final_Project\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Final_Project\\MiddleWares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:30:41.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "KazakService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\KazakService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\KazakService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Implementations\\KazakService.cs",
+              "RelativeToolTip": "Service\\Implementations\\KazakService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:01:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeToolTip": "Service\\Dtos\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:33:09.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Exceptions\\HttpException.cs",
+              "RelativeDocumentMoniker": "UI\\Exceptions\\HttpException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Exceptions\\HttpException.cs",
+              "RelativeToolTip": "UI\\Exceptions\\HttpException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:19:17.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ModelException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Exceptions\\ModelException.cs",
+              "RelativeDocumentMoniker": "UI\\Exceptions\\ModelException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Exceptions\\ModelException.cs",
+              "RelativeToolTip": "UI\\Exceptions\\ModelException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:19:42.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RestException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Exceptions\\RestException.cs",
+              "RelativeDocumentMoniker": "Service\\Exceptions\\RestException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Exceptions\\RestException.cs",
+              "RelativeToolTip": "Service\\Exceptions\\RestException.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:31:28.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\CreateResponse.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\CreateResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\CreateResponse.cs",
+              "RelativeToolTip": "UI\\Models\\CreateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:09:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "UI\\Models\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:10:15.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\UI\\Models\\PaginatedResponse.cs",
+              "RelativeToolTip": "UI\\Models\\PaginatedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:08:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "KazakCreateAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakCreateAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakCreateAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakCreateAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakCreateAdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:25:52.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "KazakGetAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakGetAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakGetAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakGetAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakGetAdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:24:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T20:27:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "KazakEditAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakEditAdminDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakEditAdminDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakEditAdminDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\AdminDtos\\ClothesDtos\\KazakDtos\\KazakEditAdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:25:38.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240804105057_Fix.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240804105057_Fix.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240804105057_Fix.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240804105057_Fix.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240804105057_Fix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:50:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240805092418_NullableLikes.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240805092418_NullableLikes.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240805092418_NullableLikes.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240805092418_NullableLikes.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240805092418_NullableLikes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:24:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240805093106_Nulll.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240805093106_Nulll.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240805093106_Nulll.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240805093106_Nulll.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240805093106_Nulll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:31:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:53:54.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CategoryKazak.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryKazak.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategoryKazak.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryKazak.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategoryKazak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:01:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IKazakService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IKazakService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IKazakService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Interfaces\\IKazakService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IKazakService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:09:37.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:43:42.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20240724102100_CategoryNamesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240724102100_CategoryNamesAdded.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240724102100_CategoryNamesAdded.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240724102100_CategoryNamesAdded.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240724102100_CategoryNamesAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:21:00.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:59:05.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISizeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ISizeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:23:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IShortsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IShortsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IShortsRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IShortsRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IShortsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:02:17.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ISocksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISocksRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ISocksRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISocksRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ISocksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:02:35.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ISweetshirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISweetshirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ISweetshirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ISweetshirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ISweetshirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:02:57.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:51:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IShirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IShirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:01:52.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ITShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ITShirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ITShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ITShirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ITShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:03:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T08:05:08.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:52:49.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IMayoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IMayoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IMayoRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IMayoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IMayoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:01:40.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IKazakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IKazakRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IKazakRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IKazakRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IKazakRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:01:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IGenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IGenderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IGenderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IGenderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IGenderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:23:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:22:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:59:17.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\TShirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\TShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\TShirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\TShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:19:25.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "SocksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SocksRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\SocksRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SocksRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\SocksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:17:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "SweetshirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SweetshirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\SweetshirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SweetshirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\SweetshirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:15:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SliderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:09:42.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "SizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\SizeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:27:14.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ShortsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ShortsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ShortsRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ShortsRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\ShortsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:13:46.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ShirtRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\ShirtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:12:51.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "KazakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\KazakRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\KazakRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\KazakRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\KazakRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:11:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "MayoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\MayoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\MayoRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\MayoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\MayoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:12:05.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "GenderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\GenderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\GenderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\GenderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\GenderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:27:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:29:01.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:08:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sliders\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Sliders\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Sliders\\Slider.cs",
+              "RelativeToolTip": "Core\\Entities\\Sliders\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:01:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20240723104851_init3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240723104851_init3.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240723104851_init3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Data\\Migrations\\20240723104851_init3.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240723104851_init3.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:48:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CategoryShirt.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryShirt.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategoryShirt.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryShirt.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategoryShirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:02:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CategoryMayo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryMayo.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategoryMayo.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryMayo.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategoryMayo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:02:04.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "CategoryShorts.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryShorts.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategoryShorts.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryShorts.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategoryShorts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:02:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "CategorySocks.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategorySocks.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategorySocks.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategorySocks.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategorySocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:02:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CategorySweetshirt.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategorySweetshirt.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategorySweetshirt.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategorySweetshirt.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategorySweetshirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:03:07.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "CategoryTshirt.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryTshirt.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ManyToManys\\CategoryTshirt.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\ManyToManys\\CategoryTshirt.cs",
+              "RelativeToolTip": "Core\\Entities\\ManyToManys\\CategoryTshirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:03:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Final_Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Final_Project\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T20:06:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Bases\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Core\\Entities\\Bases\\AuditEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Bases\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:56:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Final_Project",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.csproj",
+              "RelativeDocumentMoniker": "Final_Project\\Final_Project.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\Final_Project.csproj",
+              "RelativeToolTip": "Final_Project\\Final_Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T20:21:26.902Z"
             }
           ]
         }

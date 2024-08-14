@@ -1,0 +1,41 @@
+﻿@using UI.Models.Categories
+@model CategoryEditRequest
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Name</label>
+                    <input asp-for="Name" class="form-control" id="exampleInputEmail1">
+                </div>
+                <input  asp-for="Id" value="@Model.Id" type="hidden"/>
+
+                <!-- Display existing images -->
+                <div class="form-group">
+                    <label for="existingImages">Existing Images</label>
+                    <div id="existingImages">
+                        @if (ViewBag.ImageUrls != null)
+                        {
+                            foreach (var imageUrl in ViewBag.ImageUrls)
+                            {
+                                <div class="image-preview">
+                                    <img src="@imageUrl" alt="Image" class="img-thumbnail" style="max-width: 150px; margin: 10px;">
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+
+                <!-- File upload input -->
+                <div class="form-group">
+                    <label for="FileInput">File</label>
+                    <input asp-for="ImageFiles" class="form-control" id="FileInput" type="file" multiple>
+                    <span class="text-danger" asp-validation-for="ImageFiles"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

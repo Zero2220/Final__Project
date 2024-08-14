@@ -1,0 +1,21 @@
+﻿@using UI.Models.Categories
+@model CategoryCreateRequest
+
+<div class="container-fluid">
+    <div class="card">
+    <div class="card-body">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Name</label>
+                <input asp-for=Name class="form-control" id="exampleInputEmail1">
+            </div>
+            <div class="form-group">
+                <label for="limitInput">File</label>
+                <input asp-for="ImageFiles" class="form-control" id="FileInput">
+                <span class="text-danger" asp-validation-for="ImageFiles"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+</div>

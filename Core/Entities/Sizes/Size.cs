@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace Core.Entities.Sizes
 {
-    public class Size:AuditEntity
+    public enum Size
     {
-        public string Name { get; set; }
+        Small = 1,
+        Medium = 2,
+        Large = 3,
+        ExtraLarge = 4
     }
 }

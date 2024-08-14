@@ -9,5 +9,7 @@ namespace Core.Entities.Slider
 {
     public class Slider:AuditEntity
     {
+        public string Name { get; set; }
+        public string ImageName { get; set; }
     }
 }

@@ -1,4 +1,6 @@
 ﻿using Core.Entities.Bases;
+using Core.Entities.Genders;
+using Core.Entities.ManyToManys;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -8,8 +10,9 @@ using System.Threading.Tasks;
 
 namespace Core.Entities.Clothes
 {
-    public class Kazak : ClothEntity
+    public class Kazak : ClothesEntity
     {
         
+        public List<CategoryKazak> CategoryKazaks { get; set; }
     }
 }

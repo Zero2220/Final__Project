@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\2959aa05-7f83-4ee0-a0bc-2ddc5e29b54eindir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\2959aa05-7f83-4ee0-a0bc-2ddc5e29b54eindir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\3d86b984-7b46-4d6b-aaa1-176b4754f4cdindir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\3d86b984-7b46-4d6b-aaa1-176b4754f4cdindir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\61525ae7-d747-4d25-a36c-34c1ef88ee8findir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\61525ae7-d747-4d25-a36c-34c1ef88ee8findir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\915ceaad-f2c4-430b-9bf4-558335f4b663indir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\915ceaad-f2c4-430b-9bf4-558335f4b663indir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\a29340b3-7aa3-4089-8f4a-cbbc6e3302a2indir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\a29340b3-7aa3-4089-8f4a-cbbc6e3302a2indir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\d69c420e-e53d-4e38-b758-f41ef166401findir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\d69c420e-e53d-4e38-b758-f41ef166401findir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\categories\\fcad68f1-67be-4b0d-8ed2-c9f1260ce35findir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\categories\\fcad68f1-67be-4b0d-8ed2-c9f1260ce35findir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\kazaks\\12f93c06-d189-4828-b2d2-bcd6ebd4b5aeindir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\kazaks\\12f93c06-d189-4828-b2d2-bcd6ebd4b5aeindir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\kazaks\\66237e3a-b193-4019-ae8a-6fa4936c3868indir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\kazaks\\66237e3a-b193-4019-ae8a-6fa4936c3868indir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\kazaks\\8f4152a9-fe47-4a13-a8bd-b072b1da635eindir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\kazaks\\8f4152a9-fe47-4a13-a8bd-b072b1da635eindir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Final_Project\\Final_Project\\wwwroot\\uploads\\kazaks\\e6a57140-2794-499c-8c9c-3f388c427a86indir.jfif",
+      "PackagePath": "staticwebassets\\uploads\\kazaks\\e6a57140-2794-499c-8c9c-3f388c427a86indir.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Final_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Final_Project.props",
+      "PackagePath": "build\\Final_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Final_Project.props",
+      "PackagePath": "buildMultiTargeting\\Final_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Final_Project.props",
+      "PackagePath": "buildTransitive\\Final_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

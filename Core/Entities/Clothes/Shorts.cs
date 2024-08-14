@@ -1,4 +1,5 @@
 ﻿using Core.Entities.Bases;
+using Core.Entities.ManyToManys;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace Core.Entities.Clothes
 {
-    public class Shorts : ClothEntity
+    public class Shorts : ClothesEntity
     {
+        public List<CategoryShorts> CategoryShorts { get; set; }
     }
 }

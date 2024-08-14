@@ -7,8 +7,13 @@ using System.Threading.Tasks;
 
 namespace Core.Entities.Colors
 {
-    public class Color:AuditEntity
+    public enum Color
     {
-        public string Name { get; set; }
+        Red = 1,
+        Green = 2,
+        Blue = 3,
+        Black = 4,
+        White = 5,
+        Yellow = 6,
     }
 }

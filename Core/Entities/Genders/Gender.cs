@@ -5,10 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Entities.Gender
+namespace Core.Entities.Genders
 {
-    public class Gender:AuditEntity
+    public enum Gender
     {
-        public string Name { get; set; }
+        Male = 1,
+        Female = 2,
+        Unisex = 3
     }
 }
